@@ -7,3 +7,4 @@ Simple interface for accessing multiple exercise videos and up-to-date beginner 
 <p align="center">
   <img src="/screenshots/iPhone.png?raw=true" alt="iPhone 6S Screenshot" width="625"/>
 </p>
+# BodyweightFitness-Master
